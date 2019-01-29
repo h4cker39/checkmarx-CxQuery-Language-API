@@ -2,7 +2,7 @@
 
 //Using the following atomic queries:
 //CxList.FindByType()
-CxList.FindByShortName()
+//CxList.FindByShortName()
 
 //Find all method decleration that start with b
 
